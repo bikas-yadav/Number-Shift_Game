@@ -13,7 +13,7 @@ so play this game and enjoy. Happy Gamming, Good Luck !
 
 
 ![mygame1](https://github.com/bikas-yadav/Number-Shift_Game/blob/main/img1.jpg)
-![mygame2](https://user-images.githubusercontent.com/26687042/44631350-223efd80-a988-11e8-84fb-b0d0e072fafe.png)
+![mygame2](https://github.com/bikas-yadav/Number-Shift_Game/blob/main/img2.jpg)
 ![mygame3](https://user-images.githubusercontent.com/26687042/44631323-de4bf880-a987-11e8-8da9-2f534346de16.png)
 ![mygame4](https://user-images.githubusercontent.com/26687042/44631359-2cf99280-a988-11e8-9cd0-2efc7554a377.png)
 ![mygame5](https://user-images.githubusercontent.com/26687042/44631360-308d1980-a988-11e8-8116-f1548402203b.png)
